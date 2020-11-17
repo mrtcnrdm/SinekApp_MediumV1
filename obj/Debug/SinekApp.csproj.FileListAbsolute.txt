@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\uygulama\SinekApp\SinekApp\bin\Debug\SinekApp.exe.config
+C:\Users\Asus\Desktop\uygulama\SinekApp\SinekApp\bin\Debug\SinekApp.exe
+C:\Users\Asus\Desktop\uygulama\SinekApp\SinekApp\bin\Debug\SinekApp.pdb
+C:\Users\Asus\Desktop\uygulama\SinekApp\SinekApp\obj\Debug\SinekApp.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\uygulama\SinekApp\SinekApp\obj\Debug\SinekApp.Form1.resources
+C:\Users\Asus\Desktop\uygulama\SinekApp\SinekApp\obj\Debug\SinekApp.oyun.resources
+C:\Users\Asus\Desktop\uygulama\SinekApp\SinekApp\obj\Debug\SinekApp.Properties.Resources.resources
+C:\Users\Asus\Desktop\uygulama\SinekApp\SinekApp\obj\Debug\SinekApp.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\uygulama\SinekApp\SinekApp\obj\Debug\SinekApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\uygulama\SinekApp\SinekApp\obj\Debug\SinekApp.exe
+C:\Users\Asus\Desktop\uygulama\SinekApp\SinekApp\obj\Debug\SinekApp.pdb
